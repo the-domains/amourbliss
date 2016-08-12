@@ -12,3 +12,7 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 name: AmourBliss
+navigation:
+  - name: About
+    id: a045d80e-f983-4e32-b809-3a04846c3a66
+    type: content
